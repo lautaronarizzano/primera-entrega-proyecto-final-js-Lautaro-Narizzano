@@ -68,7 +68,8 @@ function menu (){
         prestamo()
     } else if(apartado == 5){
         alert("Gracias por elegirnos!! Hasta pronto!!")
-    } else { alert("ha seleccionado una opcion incorrecta")}
+    } else { alert("ha seleccionado una opcion incorrecta")
+menu()}
     
 }
 menu()
